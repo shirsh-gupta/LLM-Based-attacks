@@ -27,3 +27,7 @@ Developers: Those responsible for building applications around LLMs must conside
 Enterprises: Businesses employing LLMs in critical decision-making processes should always verify the outputs and consider multi-layered security protocols.
 As LLMs become increasingly integrated into our digital ecosystem, their security becomes a matter of paramount importance. 
 Understanding the potential avenues for attacks can inform better practices in the development, deployment, and usage of these technologies. Ongoing research and development are essential to stay one step ahead of cybercriminals and to ensure that LLMs serve as a boon, rather than a bane, for society.
+
+```
+console.log("Hello, World!");
+```
