@@ -28,6 +28,8 @@ Enterprises: Businesses employing LLMs in critical decision-making processes sho
 As LLMs become increasingly integrated into our digital ecosystem, their security becomes a matter of paramount importance. 
 Understanding the potential avenues for attacks can inform better practices in the development, deployment, and usage of these technologies. Ongoing research and development are essential to stay one step ahead of cybercriminals and to ensure that LLMs serve as a boon, rather than a bane, for society.
 
+
+## LLM BAsed attack description and Codes
 LLM (Large Language Model) based attacks typically involve leveraging the capabilities of powerful language models like GPT (Generative Pre-trained Transformer) to manipulate, deceive, or exploit systems and individuals. Here are several ways LLM-based attacks can be performed:
 
 1. **Phishing and Social Engineering**: Attackers can use LLMs to generate highly convincing phishing emails, messages, or even voice messages. These messages are designed to trick recipients into revealing sensitive information, clicking on malicious links, or performing actions that compromise security.
