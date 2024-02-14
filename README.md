@@ -147,5 +147,3 @@ Below are simplified examples or Python code snippets illustrating how LLM-based
    for password in password_variations:
        print(password)
    ```
-
-Please note that these examples are simplified and for illustrative purposes only. It's important to use such techniques responsibly and ethically. Generating malware, conducting phishing attacks, or attempting to exploit vulnerabilities without proper authorization are illegal and unethical activities.
