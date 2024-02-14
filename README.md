@@ -82,11 +82,8 @@ Below are simplified examples or Python code snippets illustrating how LLM-based
    print(fake_review)
    ```
 
-3. **Content Generation for Malware**:
 
-   This is a more complex and potentially harmful scenario. Generating malware using code is highly illegal and unethical. 
-
-4. **Automated Exploit Generation**:
+3. **Automated Exploit Generation**:
 
    ```python
    # Generate exploit payload
@@ -99,7 +96,7 @@ Below are simplified examples or Python code snippets illustrating how LLM-based
    print(exploit_code)
    ```
 
-5. **Automated Social Media Manipulation**:
+4. **Automated Social Media Manipulation**:
 
    ```python
    # Generate fake social media comment
@@ -112,7 +109,7 @@ Below are simplified examples or Python code snippets illustrating how LLM-based
    print(fake_comment)
    ```
 
-6. **Adversarial Attacks on Machine Learning Models**:
+5. **Adversarial Attacks on Machine Learning Models**:
 
    There are libraries such as Foolbox (https://foolbox.readthedocs.io/en/stable/) that provide tools for generating adversarial examples. Here's a simplified example:
 
@@ -140,7 +137,7 @@ Below are simplified examples or Python code snippets illustrating how LLM-based
    adversarial_image = attack(image, label)
    ```
 
-7. **Credential Stuffing and Password Cracking**:
+6. **Credential Stuffing and Password Cracking**:
 
    ```python
    # Generate potential password list
